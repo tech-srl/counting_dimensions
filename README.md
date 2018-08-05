@@ -6,13 +6,15 @@ The notebook is a demonstration of the results of our paper, "On the Practical C
 ### Citation
 You can cite this work using:
 
-@InProceedings{weiss-goldberg-yahav,  
-  title = 	 {On the Practical Computational Power of Finite Precision RNNs for Language Recognition},  
-  author = 	 {Gail Weiss and Yoav Goldberg and Eran Yahav},  
-  booktitle = 	 {Proceedings of the 55th Annual Meeting of the Association for Computational
-               Linguistics},  
-  year = 	 {2018},  
-  editor = 	 {Iryna Gurevych and Yusuke Miyao},  
-  address = 	 {Melbourne Convention and Exhibition Centre, Melbourne, Australia},  
-  month = 	 {15--20 Jul},  
+@InProceedings{P18-2117,
+  author = 	"Weiss, Gail
+		and Goldberg, Yoav
+		and Yahav, Eran",
+  title = 	"On the Practical Computational Power of Finite Precision RNNs for Language Recognition",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"740--745",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-2117"
 }
